@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python3
+Module=serendipilist
+IAge=2
+Depends=rb
+Name=Serendipilist
+Description=Create a playlist from a mix of ratings.
+Authors=miciasto <miciasto@gmx.com>
+Copyright=This software is absolutely free: as in freedom, love, or beer.
+Website=https://github.com/miciasto/serendipilist
