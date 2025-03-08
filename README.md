@@ -1,9 +1,9 @@
 Serendipilist - Rhythmbox plugin
 ==================
 
-Adds a random selection of tracks to the play queue, selecting tracks from each rating level in the selected proportions.
+Play a random selection of tracks in the given proportions.
 
-![image-20250111122923315](.md.assets/README/image-20250111122923315.png)
+![image-20250308154858905](.md.assets/README/image-20250308154858905.png)
 
 ## Requirements
 
